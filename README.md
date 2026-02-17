@@ -1,4 +1,4 @@
-# ICU & SICU Bed Capacity Analysis (SQL Project)
+# HOSPITAL ICU & SICU Bed Capacity Analysis (SQL Project)
 
 ## Overview
 This project evaluates Intensive Care Unit (ICU) and Surgical Intensive Care Unit (SICU) bed capacity across a hospital network to support a targeted nursing intervention pilot. The objective is to identify one or two hospitals with sufficient critical care scale, utilization, and staffing readiness to maximize clinical impact while maintaining cost effectiveness.
